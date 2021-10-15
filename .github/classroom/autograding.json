@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/15SumaColumnas",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 50
+    }
+  ]
+}
